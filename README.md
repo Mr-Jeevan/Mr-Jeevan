@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mr. Jeevan
-- 👀 I’m interested in technological revolution which helps the growth of Nature
-- 💞️ I’m looking to collaborate in terms of developing skills
+- 👀 Interested in technological revolution which helps the growth of Nature
+- 💞️ And looking to collaborate in terms of developing skills
 - 📫 To reach me> <email>>> jeevee.a77@gmail.com
 - ⚡ Fun fact: Learning is Fun
 

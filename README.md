@@ -1,52 +1,78 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+## Hi there! 👋
 
-###
+I'm **Mr-Jeevan**, a passionate developer with a knack for creating innovative solutions. Welcome to my GitHub profile!
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## About Me
 
-###
+Currently open to job opportunities, I have a diverse background in software development and a strong interest in building impactful applications. Although I'm not listing a specific location or company in my profile, I'm eager to collaborate with others in the tech community.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## Skills & Technologies
 
-###
+html,css,react,nodejs,express,mongodb,docker,git,github,graphql,bootstrap,redux,vue,sass,java
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## Top Projects
 
-###
+### [inteli-attendance-sys](https://github.com/Mr-Jeevan/inteli-attendance-sys)  
+- **Description:** A smart attendance system designed for educational institutions.  
+- **Stars:** 0  
+- **Language:** JavaScript  
+- **Forks:** 0  
+- **Issues:** 0  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### [first-native](https://github.com/Mr-Jeevan/first-native)  
+- **Description:** Initial project using React Native for mobile development.  
+- **Stars:** 0  
+- **Language:** JavaScript  
+- **Forks:** 0  
+- **Issues:** 0  
 
-###
+### [portfolio](https://github.com/Mr-Jeevan/portfolio)  
+- **Description:** A personal portfolio to showcase my projects and skills.  
+- **Stars:** 0  
+- **Language:** TypeScript  
+- **Forks:** 0  
+- **Issues:** 0  
+
+### [calculator](https://github.com/Mr-Jeevan/calculator)  
+- **Description:** A simple calculator application built with JavaScript.  
+- **Stars:** 0  
+- **Language:** JavaScript  
+- **Forks:** 0  
+- **Issues:** 0  
+
+### [attendance-form](https://github.com/Mr-Jeevan/Attendance-form)  
+- **Description:** A web form for attendance management.  
+- **Stars:** 0  
+- **Language:** JavaScript  
+- **Forks:** 0  
+- **Issues:** 0  
+
+
+## GitHub Stats
+
+### My GitHub Stats  
+- **Public Repositories:** 16  
+- **Followers:** 3  
+- **Following:** 4  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Jeevan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Jeevan&layout=compact&theme=radical)
+
+## Recent Activity
+
+### Recent GitHub Activity  
+- **Added landing page** to [inteli-attendance-sys](https://github.com/Mr-Jeevan/inteli-attendance-sys)  
+- **Separated components** in [inteli-attendance-sys](https://github.com/Mr-Jeevan/inteli-attendance-sys)  
+- **Created the initial structure** for [attendance-form](https://github.com/Mr-Jeevan/Attendance-form)  
+- **Updated README** for [first-native](https://github.com/Mr-Jeevan/first-native)  
+- **Pushed changes** to [calculator](https://github.com/Mr-Jeevan/calculator)  
+
+Feel free to check out my repositories for more details!
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts to share, but I'm planning to write about my development journey and projects soon!
+
+## Connect with Me
+
+{}

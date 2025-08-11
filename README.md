@@ -48,16 +48,6 @@ html,css,react,nodejs,express,mongodb,docker,git,github,graphql,bootstrap,redux,
 - **Issues:** 0  
 
 
-## GitHub Stats
-
-### My GitHub Stats  
-- **Public Repositories:** 16  
-- **Followers:** 3  
-- **Following:** 4  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Jeevan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Jeevan&layout=compact&theme=radical)
-
 ## Recent Activity
 
 ### Recent GitHub Activity  
@@ -68,10 +58,6 @@ html,css,react,nodejs,express,mongodb,docker,git,github,graphql,bootstrap,redux,
 - **Pushed changes** to [calculator](https://github.com/Mr-Jeevan/calculator)  
 
 Feel free to check out my repositories for more details!
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share, but I'm planning to write about my development journey and projects soon!
 
 ## Connect with Me
 

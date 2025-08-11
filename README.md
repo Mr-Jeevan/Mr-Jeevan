@@ -1,64 +1,24 @@
-## Hi there! 👋
-
-I'm **Mr-Jeevan**, a passionate developer with a knack for creating innovative solutions. Welcome to my GitHub profile!
-
-## About Me
-
-Currently open to job opportunities, I have a diverse background in software development and a strong interest in building impactful applications. Although I'm not listing a specific location or company in my profile, I'm eager to collaborate with others in the tech community.
-
-## Skills & Technologies
-
-html,css,react,nodejs,express,mongodb,docker,git,github,graphql,bootstrap,redux,vue,sass,java
-
-## Top Projects
-
-### [inteli-attendance-sys](https://github.com/Mr-Jeevan/inteli-attendance-sys)  
-- **Description:** A smart attendance system designed for educational institutions.  
-- **Stars:** 0  
-- **Language:** JavaScript  
-- **Forks:** 0  
-- **Issues:** 0  
-
-### [first-native](https://github.com/Mr-Jeevan/first-native)  
-- **Description:** Initial project using React Native for mobile development.  
-- **Stars:** 0  
-- **Language:** JavaScript  
-- **Forks:** 0  
-- **Issues:** 0  
-
-### [portfolio](https://github.com/Mr-Jeevan/portfolio)  
-- **Description:** A personal portfolio to showcase my projects and skills.  
-- **Stars:** 0  
-- **Language:** TypeScript  
-- **Forks:** 0  
-- **Issues:** 0  
-
-### [calculator](https://github.com/Mr-Jeevan/calculator)  
-- **Description:** A simple calculator application built with JavaScript.  
-- **Stars:** 0  
-- **Language:** JavaScript  
-- **Forks:** 0  
-- **Issues:** 0  
-
-### [attendance-form](https://github.com/Mr-Jeevan/Attendance-form)  
-- **Description:** A web form for attendance management.  
-- **Stars:** 0  
-- **Language:** JavaScript  
-- **Forks:** 0  
-- **Issues:** 0  
+# 💫 About Me:
+👋 Hi, I’m Mr. Jeevan<br>- 👀 Interested in technological revolution which helps the growth of Nature<br>- 💞️ And looking to collaborate in terms of developing skills<br>- 📫 To reach me> <email>>> jeevee.a77@gmail.com<br>- ⚡ Fun fact: Learning is Fun
 
 
-## Recent Activity
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeevee.a77@gmail.com) 
 
-### Recent GitHub Activity  
-- **Added landing page** to [inteli-attendance-sys](https://github.com/Mr-Jeevan/inteli-attendance-sys)  
-- **Separated components** in [inteli-attendance-sys](https://github.com/Mr-Jeevan/inteli-attendance-sys)  
-- **Created the initial structure** for [attendance-form](https://github.com/Mr-Jeevan/Attendance-form)  
-- **Updated README** for [first-native](https://github.com/Mr-Jeevan/first-native)  
-- **Pushed changes** to [calculator](https://github.com/Mr-Jeevan/calculator)  
+# 💻 Tech Stack:
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mr-Jeevan&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mr-Jeevan&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Jeevan&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Feel free to check out my repositories for more details!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## Connect with Me
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mr-Jeevan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-{}
+---
+[![](https://visitcount.itsvg.in/api?id=Mr-Jeevan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

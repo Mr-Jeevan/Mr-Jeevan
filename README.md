@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mr. Jeevan<br>- 👀 Interested in technological revolution which helps the growth of Nature<br>- 💞️ And looking to collaborate in terms of developing skills<br>- 📫 To reach me> <email>>> jeevee.a77@gmail.com<br>- ⚡ Fun fact: Learning is Fun
+👋 Hi, I’m Mr. Jeevan<br>- 👀 Interested in technological revolution which helps the growth of Nature<br>- 💞️ And looking to collaborate in terms of developing skills<br>- 📫 To reach me> <email>>> jeevanraj.rj7@gmail.com<br>- ⚡ Fun fact: Learning is Fun
 
 
 ## 🌐 Socials:
